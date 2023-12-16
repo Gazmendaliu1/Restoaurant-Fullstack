@@ -15,7 +15,7 @@
         $msg .= "Number of Reservation: $reservation\n";
         $msg .= "Message: $msg";
 
-        mail("gazmend.aa@gmail.com", $subject, $msg, "From: $email");
+        mail("youremail@gmail.com", $subject, $msg, "From: $email");
     }
 ?>
 
