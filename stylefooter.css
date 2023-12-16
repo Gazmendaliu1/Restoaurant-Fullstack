@@ -1,0 +1,38 @@
+.part3 {
+    background-image: url("image/sd.jpg");
+    width: 100%;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    gap: 50px;
+}
+.part3 p {
+    color: black;
+}
+.part3 div {
+    margin-top: 20px;
+    
+    border: 1px solid black;
+    align-items: center;
+    width: 220px;
+    height: 220px;
+    border: 1px solid black;    
+    margin-bottom: 50px;
+    background-color: white;
+
+    display: grid;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.end , marquee {
+    color: white;
+    height: 100px;
+    background-color: #1A1A1A;
+   display: flex;
+}
+#mobilenumber {
+    color: orangered;
+    font-weight: bold;
+}

@@ -1,0 +1,35 @@
+body {
+    background-color: #413f3f;
+}
+.card {
+    margin-top: 50px;
+    margin-left: 50px;
+    width:250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    background-color: rgb(247, 241, 239);
+
+}
+.card-all {
+    margin-left: 5%;
+}
+.btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 250px;
+    height: 60px;
+    border-radius: 30px;
+    font-size: 20px;
+    margin-top: 3vh;
+}
+.btn:hover {
+    background-color: orangered;
+    width: 250px;
+    height: 60px;
+    border-radius: 30px;
+    font-size: 20px;
+    color: #fff;
+}
